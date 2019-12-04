@@ -13,3 +13,5 @@ A Geng Shuang speech emulator. Originally created by [xwgmdjc](https://github.co
 ![gspreview.png](https://i.loli.net/2019/11/30/T9AwOQnHGxJYZ4U.png)
 
 ![gspreview.png](https://raw.githubusercontent.com/fedink/GengShuangEmulator/master/gspreview.png)
+
+### 添加我方标签，更加灵活
