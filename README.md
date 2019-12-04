@@ -4,6 +4,8 @@
 
 A Geng Shuang speech emulator. Originally created by [xwgmdjc](https://github.com/xwgmdjc).
 
+update by [jditlee](https://github.com/jditlee/).
+
 ### 分支改进
 
 - UI/UX 优化与重设计
